@@ -1,2 +1,2 @@
 # New_Python
-Введение в программирование на питоне (1 курс магистратура)
+Introduction to Python (1st year DH)
